@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t">
+<title id="t">About Arnav</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c32"/><stop offset="1" stop-color="#080d19"/></linearGradient><linearGradient id="edge"><stop stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient></defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="298" rx="23" fill="none" stroke="#243653"/>
+<text x="42" y="54" fill="#247bff" font-family="monospace" font-size="15" letter-spacing="2">01 / ABOUT ME</text>
+<text x="42" y="105" fill="#f4f6ff" font-family="Arial,sans-serif" font-size="31" font-weight="700">Curious by nature. Builder by practice.</text>
+<text x="42" y="148" fill="#b7c4dc" font-family="Arial,sans-serif" font-size="19">I'm a computer science student focused on turning ideas into useful software.</text>
+<text x="42" y="179" fill="#b7c4dc" font-family="Arial,sans-serif" font-size="19">I enjoy learning how products work, solving problems, and improving with every project.</text>
+<rect x="42" y="220" width="500" height="42" rx="12" fill="#142642" stroke="#2b4a78"/>
+<text x="62" y="247" fill="#dce8ff" font-family="monospace" font-size="16">INTERESTS  /  CODING  ·  TECHNOLOGY</text>
+<rect x="780" y="36" width="375" height="226" rx="20" fill="#0b1424" stroke="url(#edge)" stroke-width="1.5"/>
+<text x="812" y="76" fill="#93a7c8" font-family="monospace" font-size="14">CURRENT FOCUS</text>
+<g font-family="Arial,sans-serif" fill="#f5f7ff"><text x="812" y="123" font-size="25" font-weight="700">Full-stack development</text><text x="812" y="161" font-size="18" fill="#b6c5df">JavaScript · Node.js · Express</text><text x="812" y="191" font-size="18" fill="#b6c5df">MongoDB · REST APIs</text></g>
+<rect x="812" y="215" width="270" height="4" rx="2" fill="#243653"/><rect x="812" y="215" width="172" height="4" rx="2" fill="#247bff"><animate attributeName="width" values="172;240;172" dur="5s" repeatCount="indefinite"/></rect>
+<style>@media(prefers-reduced-motion:reduce){animate{display:none}}</style></svg>

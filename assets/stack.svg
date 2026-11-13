@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t">
+<title id="t">Technology stack</title><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0e1a30"/><stop offset="1" stop-color="#070b16"/></linearGradient><linearGradient id="edge"><stop stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient></defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#263a5b"/>
+<text x="42" y="52" fill="#247bff" font-family="monospace" font-size="15" letter-spacing="2">02 / TECHNOLOGY STACK</text>
+<text x="42" y="96" fill="#f5f7ff" font-family="Arial,sans-serif" font-size="30" font-weight="700">Tools I work with</text>
+<g transform="translate(600 190)" fill="none" stroke="#2b4773" stroke-width="2">
+ <ellipse rx="420" ry="72" transform="rotate(-12)"/><ellipse rx="330" ry="112" transform="rotate(24)"/><ellipse rx="230" ry="145" transform="rotate(-38)"/>
+ <circle r="18" fill="#14294a" stroke="#247bff"/><circle r="6" fill="#ff354f" stroke="none"/>
+</g>
+<g font-family="Arial,sans-serif" font-size="18" font-weight="700" text-anchor="middle">
+ <g><rect x="110" y="142" width="130" height="48" rx="13" fill="#142642" stroke="#247bff"/><text x="175" y="172" fill="#e8f0ff">C / C++</text></g>
+ <g><rect x="300" y="242" width="160" height="48" rx="13" fill="#142642" stroke="#2b4773"/><text x="380" y="272" fill="#e8f0ff">JavaScript</text></g>
+ <g><rect x="520" y="130" width="140" height="48" rx="13" fill="#142642" stroke="#247bff"/><text x="590" y="160" fill="#e8f0ff">Python</text></g>
+ <g><rect x="760" y="232" width="145" height="48" rx="13" fill="#142642" stroke="#2b4773"/><text x="832" y="262" fill="#e8f0ff">Node.js</text></g>
+ <g><rect x="955" y="138" width="160" height="48" rx="13" fill="#142642" stroke="#ff354f"/><text x="1035" y="168" fill="#e8f0ff">MongoDB</text></g>
+</g>
+<g font-family="monospace" font-size="15" fill="#b9c8e2"><text x="42" y="330">FRONTEND  HTML · CSS · TAILWIND CSS</text><text x="445" y="330">BACKEND  EXPRESS.JS · REST APIs</text><text x="890" y="330">TOOLS  GIT · GITHUB · VS CODE</text></g>
+<circle cx="600" cy="190" r="5" fill="#ff354f"><animate attributeName="r" values="5;10;5" dur="2.4s" repeatCount="indefinite"/></circle>
+<style>@media(prefers-reduced-motion:reduce){{animate{{display:none}}}}</style></svg>
